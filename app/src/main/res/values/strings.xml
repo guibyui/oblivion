@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Oblivion</string>
+    <string name="splash_screen">SplashScreen</string>
+    <string name="username_input">Email</string>
+    <string name="password_button">Password</string>
+    <string name="forget_password_button">Forgot Password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="login_button">LOGIN</string>
+    <string name="email_input">Email Address</string>
+    <string name="password_input">Password</string>
+    <string name="confirm_password_input">Confirm Password</string>
+    <string name="create_account">DONE</string>
+    <string name="text_view_recover_id">Enter your email address</string>
+    <string name="buttom_recover_id">Recover</string>
+    <string name="recover_email_id">Email</string>
+    <string name="create_meeting_button">create a new meeting button</string>
+    <string name="oblivion_logo">Oblivion logo</string>
+    <string name="title_input">Title</string>
+    <string name="date_input">Date</string>
+    <string name="time_input">Time</string>
+    <string name="presiding_input">Presiding</string>
+    <string name="conducting_input">Conducting</string>
+    <string name="opening_hymn_input">Opening Hymn</string>
+    <string name="invocation_input">Invocation</string>
+    <string name="ward_business_input">Ward Business</string>
+    <string name="sacrament_hymn_input">Sacrament Hymn</string>
+    <string name="speaker_1_input">First Speaker</string>
+    <string name="speaker_2_input">Second Speaker</string>
+    <string name="special_hymn_input">Special Hymn</string>
+    <string name="speaker_3_input">Third Speaker</string>
+    <string name="closing_hymn_input">Closing Hymn</string>
+    <string name="benediction_input">Benediction</string>
+    <string name="notes_input">Notes</string>
+    <string name="attendance_input">Attendance</string>
+    <string name="cancel_button">Cancel New Meeting Button</string>
+    <string name="save_new_meeting_button">Save New Meeting Button</string>
+    <string name="remove_warning_button">blank</string>
+    <string name="splash_screen_logo">Oblivion Logo initial screen</string>
+    <string name="calendar_view">Calendar</string>
+    <string name="meeting_text_view">Meetings</string>
+    <string name="task_view">Tasks</string>
+    <string name="reports_view">Reports</string>
+</resources>
+
